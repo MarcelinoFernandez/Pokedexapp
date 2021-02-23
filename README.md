@@ -1,0 +1,2 @@
+# Pokedexapp
+ Aplikasi Pokedex
